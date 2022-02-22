@@ -6,6 +6,7 @@
   "name": "calculator",
   "version": "1.0.0",
   "main": "app.js",
+  "homepage": "https://ironside999.github.io/Calculator",
   "scripts": {
     "deploy": "gh-pages -d index.html"
   },
