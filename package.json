@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "sweetalert": "^2.1.2"
+  },
+  "name": "calculator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d index.html"
+  },
+  "author": "Ironside",
+  "license": "ISC",
+  "description": ""
+}
