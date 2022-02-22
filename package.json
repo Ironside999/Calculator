@@ -6,7 +6,7 @@
   "name": "calculator",
   "version": "1.0.0",
   "main": "app.js",
-  "homepage": "https://Ironside999.github.io/Calculator",
+  "homepage": "https://Ironside-Learning.github.io/Calculator",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
